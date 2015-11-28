@@ -8,10 +8,10 @@
 - title: "Getting Started"
   url: 'getting-started'
   pages:
+    - title: "Quickstart"
+      url: "quickstart"
     - title: "Installing Ember"
       url: "index"
-    - title: "Your First Ember App"
-      url: "first-app"
     - title: "Core Concepts"
       url: "core-concepts"
 
