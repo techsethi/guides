@@ -245,14 +245,18 @@ development, it's time to get it ready to deploy to our users. To do so,
 run the following command:
 
 ```sh
-ember build
+ember build --env production
 ```
 
 The `build` command packages up all of the assets that make up your
 application&mdash;JavaScript, templates, CSS, web fonts, images, and
-more&mdash;into an optimized bundle that's ready to upload to your web
-host. Once the build finishes, you'll find all of your assets in your
-application's `dist/` directory.
+more.
+
+In this case, we told Ember to build for the production environment via
+the `--env` flag. This creates an optimized bundle that's ready to
+upload to your web host. Once the build finishes, you'll find all of the
+concatenated and minified assets in your application's `dist/`
+directory.
 
 The Ember community values collaboration and building common tools that
 everyone relies on. If you're interested in deploying your app to
