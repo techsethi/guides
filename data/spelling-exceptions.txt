@@ -1,4 +1,3 @@
-foo
 accessor
 actionhttp
 activesupport
@@ -36,13 +35,15 @@ chainable
 checkbox
 checkboxes
 cli
-clickable
 cli's
+clickable
+componentized
 config
 consolesending
 controllerslog
 createpost
 css
+ctrl
 customevents
 customizations
 dasherize
@@ -82,6 +83,7 @@ filename
 findget
 firefox
 fixesurgent
+foo
 formaction
 formenctype
 formmethod
@@ -131,6 +133,7 @@ keycode
 laravel
 li
 lifecycle
+localhost
 login
 lookup
 lookups
@@ -138,6 +141,8 @@ maxlength
 metadata
 metamorph
 methodobservable
+minification
+minified
 minifying
 miscellaneousturn
 mixin
@@ -159,6 +164,7 @@ param
 param's
 params
 pascalcased
+PeopleTracker
 performant
 phantomjs
 pipelining
@@ -171,6 +177,7 @@ postgresql
 pre
 preload
 prepend
+preprocessing
 promise's
 prs
 pseudocode

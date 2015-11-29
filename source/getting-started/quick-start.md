@@ -203,7 +203,7 @@ component's template and edit it to look as follows:
 <ul>
 ```
 
-Note that we've changed the title from a hardcoded string ("List of
+Note that we've changed the title from a hard-coded string ("List of
 Scientists") to a dynamic property (`{{title}}`). We've also renamed
 `scientist` to the more-generic `person`, decreasing the coupling of our
 component to where it's used.
