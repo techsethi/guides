@@ -81,10 +81,6 @@ replaced by "PeopleTracker".
 
 ## Define a Route
 
-Ember makes URLs the heart of your application, so you never build apps
-that feel broken to your users. Before doing anything in Ember, first think
-about your application's URLs.
-
 Let's build an application that shows a list of scientists. To do that,
 the first step is to create a route. For now, you can think of routes as
 being the different pages that make up your application.
