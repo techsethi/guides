@@ -73,7 +73,7 @@ Switch to your editor and open `app/templates/application.hbs`. This is
 called the `application` template and it is always on screen while the
 user has your application loaded.
 
-In your editor, change the text inside the &lt;h1&gt; from `Welcome to
+In your editor, change the text inside the `<h1>` from `Welcome to
 Ember` to `PeopleTracker` and save the file. Notice that Ember detects
 the change you just made and automatically reloads the page for you in
 the background. You should see that "Welcome to Ember" has been
