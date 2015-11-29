@@ -118,7 +118,7 @@ That's Ember telling you that it has created:
 Open the newly-created template in `app/templates/scientists.hbs` and add
 the following HTML:
 
-```hbs
+```app/templates/scientists.hbs
 <h2>List of Scientists</h2>
 ```
 
@@ -134,7 +134,7 @@ we can specify a model by editing `app/routes/scientists.js`.
 We'll take the code created for us by the generator and add a `model()`
 method to the `Route`:
 
-```js{+4,+5,+6}
+```app/routes/scientists.js{+4,+5,+6}
 import Ember from 'ember';
 
 export default Ember.Route.extend({
