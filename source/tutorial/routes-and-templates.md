@@ -67,7 +67,7 @@ By building a property rental site, we can simultaneously imagine traveling
 AND building Ember applications.</p>
 ```
 
-Run `ember s` from your shell to start the Ember development server, and then go to `localhost:4200` to see your new app in action!
+Run `ember s` from your shell to start the Ember development server, and then go to `localhost:4200/about` to see your new app in action!
 
 ## A Contact Route
 
